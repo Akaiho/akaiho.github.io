@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /akaiho/
+Allow: /
 
 Sitemap: https://akaiho.github.io/akaiho/sitemap.xml
